@@ -11,7 +11,7 @@ const Home = (props) => {
         <title>Formal Nocturnal Falcon</title>
         <meta property="og:title" content="Formal Nocturnal Falcon" />
       </Helmet>
-      <a href="https://pl1.kulaandco.com/" className="home-link">
+      <a href="https://pl1.meorkasoib.live/" className="home-link">
         <img alt="image" src="/523533-400w.jpg" className="home-image" />
       </a>
     </div>
