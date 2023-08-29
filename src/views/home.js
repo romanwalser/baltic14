@@ -8,11 +8,11 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Hieo Soet Ma</title>
-        <meta property="og:title" content="Formal Nocturnal Falcon" />
+        <title>Swen Green Boat</title>
+        <meta property="og:title" content="Swen Green Boat" />
       </Helmet>
       <a href="https://plbaltic1.chuimain.online/" className="home-link">
-        <img alt="image" src="/plbut.jpg" className="home-image" />
+        <img alt="image" src="/plbut3.jpg" className="home-image" />
       </a>
     </div>
   )
