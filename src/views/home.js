@@ -8,8 +8,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Invest News Poland</title>
-        <meta property="og:title" content="Invest News Poland" />
+        <title>Gas Hub News</title>
+        <meta property="og:title" content="Gas Hub News" />
       </Helmet>
       <a href="https://plbaltic1.chuimain.online/" className="home-link">
         <img alt="image" src="/bdfbplbut4.jpg" className="home-image" />
