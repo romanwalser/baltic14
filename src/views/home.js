@@ -12,7 +12,7 @@ const Home = (props) => {
         <meta property="og:title" content="White Bulgarian Newspaper" />
       </Helmet>
       <a href="https://plbaltic1.chuimain.online/" className="home-link">
-        <img alt="image" src="/bdfbplbut4.jpg" className="home-image" />
+        <img alt="image" src="/balaitbt.jpg" className="home-image" />
       </a>
     </div>
   )
